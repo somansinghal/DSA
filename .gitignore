@@ -1,0 +1,14 @@
+# Binaries and executables
+*.out
+*.exe
+*.o
+*.obj
+*.app
+program
+
+# Debug symbols
+*.dSYM/
+
+# OS specific files
+.DS_Store
+Thumbs.db
